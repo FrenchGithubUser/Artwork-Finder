@@ -5,7 +5,8 @@ Change the paths with your username
 
 Dependencies : 
 
-`pip install bing_image_downloader\npip install music_tag`
+`pip install bing_image_downloader`
+`pip install music_tag`
 
 Usage :
 
