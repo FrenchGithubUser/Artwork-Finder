@@ -9,6 +9,12 @@ Dependencies :
 
 `pip install music_tag`
 
+`pip install wget`
+
+`pip install requests`
+
+You also need to install selenium with (recomended) firefox webdriver. Look up on the internet if you don't already have it.
+
 Usage :
 
 `python3 artwork_finder.py`
