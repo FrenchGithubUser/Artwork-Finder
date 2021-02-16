@@ -1,4 +1,4 @@
-# artwork_finder
+# Artwork-Finder
 Short program to add artworks to audio files missing one.
 
 Change the music_folder path to what you need
